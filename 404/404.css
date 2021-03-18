@@ -1,6 +1,4 @@
 body{
-  margin: 0;
-  padding: 0;
   font-family: "Comic Sans MS";
   background-color: #1E90FF;
 }
@@ -8,14 +6,14 @@ body{
 .container{
   width: 100%;
   position: absolute;
-  top: 50%;
+  top: 20%;
   text-align: center;
 }
 
 .container h1{
-  font-size: 250px;
+  font-size: 216px;
   margin: 0;
-  font-weight: 2500;
+  font-weight: 2160;
   letter-spacing: 25px;
   background: url(bg.jpg);
   -webkit-text-fill-color: transparent;
@@ -26,17 +24,16 @@ body{
 
 .container a{
   text-decoration: none;
-  background: #6A5ACD;
+  background: #191970;
   color: #fff;
-  padding: 12px 24px;
+  padding: 24px 24px;
   display: inline-block;
-  border-radius: 20px;
+  border-radius: 15px;
   font-size: 24px;
-  text-transform: uppercase;
 }
 
 .container a:hover{
-  background: #483D8B;
+  background: #6A5ACD;
 }
 
 h2 {
