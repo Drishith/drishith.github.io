@@ -15,7 +15,7 @@ body{
   margin: 0;
   font-weight: 2160;
   letter-spacing: 25px;
-  background: url(..Images/404bg.jpg);
+  background: url(../Images/404bg.jpg);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
